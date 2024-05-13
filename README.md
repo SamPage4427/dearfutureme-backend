@@ -15,5 +15,7 @@ The server connects to the frontend where a user can:
 ## Tech Stack
 | - | Frontend | Backend |
 | --------- | --------- | --------- |
-| Languages | React/Vite | Express.js/Node |
+| Languages | React/Vite/Tailwind | Express.js/Node |
 | Platform/APIs | Postman | MongoDB |
+
+## Links
